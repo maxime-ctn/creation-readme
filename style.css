@@ -1,0 +1,18 @@
+h1 {
+    background-color: green;
+    padding: 20px;
+}
+
+.infos > p {
+    text-decoration: underline;
+}
+
+.actions {
+    border: solid 5px black;
+}
+
+.img {
+    display: block;
+    padding: 0 auto;
+    margin-bottom: 40px;
+}
