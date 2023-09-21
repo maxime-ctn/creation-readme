@@ -11,8 +11,9 @@ h1 {
     border: solid 5px black;
 }
 
-.img {
+.github-picture {
     display: block;
+    width: 250px
     padding: 0 auto;
     margin-bottom: 40px;
 }
